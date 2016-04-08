@@ -1,7 +1,7 @@
 # pull_to_refresh_listview
 anroid中的下拉刷新列表
 
-![功能演示](https://raw.githubusercontent.com/SparrowC/NewsAPP/master/news.gif)
+![功能演示](https://github.com/SparrowC/pull_to_refresh_listview/blob/master/refresh.gif)
 
 ##用法：##
 ```java
@@ -276,4 +276,6 @@ header_view_layout的布局文件
     </FrameLayout>
 </LinearLayout>
 ```
-图片资源：箭头common_listview_headview_red_arrow
+图片资源：
+[箭头common_listview_headview_red_arrow](https://github.com/SparrowC/pull_to_refresh_listview/blob/master/common_listview_headview_red_arrow.png)
+
